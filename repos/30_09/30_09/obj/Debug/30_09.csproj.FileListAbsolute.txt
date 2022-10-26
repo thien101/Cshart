@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\30_09\30_09\bin\Debug\30_09.exe.config
+C:\Users\PC\source\repos\30_09\30_09\bin\Debug\30_09.exe
+C:\Users\PC\source\repos\30_09\30_09\bin\Debug\30_09.pdb
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\_30_09.Properties.Resources.resources
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.exe
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\30_09.pdb
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\_30_09.BackAll.resources
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\_30_09.Form2.resources
+C:\Users\PC\source\repos\30_09\30_09\obj\Debug\_30_09.Form3.resources
